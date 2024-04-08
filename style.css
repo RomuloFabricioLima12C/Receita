@@ -51,3 +51,11 @@ p {
     border-radius: 12px;
     margin-bottom: 32px;
 }
+.tempo h2{
+    font-family: "outfit", sans-serif;
+    color: #7a284e;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 100%;
+    margin-bottom: 16px;
+}
